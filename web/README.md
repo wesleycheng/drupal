@@ -1,3 +1,5 @@
+转载自https://gist.github.com/Greg-Boggs/8a2661b70c4e293db585
+
 Better Drupal Building
 * Custom glue should be accomplished with configuration first and PHP code second.
 
