@@ -6,7 +6,7 @@ Better Drupal Building
 Configuration Management and Dependencies
 * Use Composer (or Drush Make) to build your project and it's depencies.
   ```
-  composer create-project drupal/drupal_project src
+  composer create-project drupal-composer/drupal-project:8.x-dev my_site_name_dir --stability dev --no-interaction --no-install
   composer update
   ```
 * Store your work in files.
